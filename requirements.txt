@@ -1,0 +1,6 @@
+PyQt6==6.4.0
+networkx==3.1
+sqlalchemy
+pandas
+numpy
+scipy
